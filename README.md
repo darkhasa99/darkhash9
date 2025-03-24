@@ -32,3 +32,67 @@
 
 ![RIDOY-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&theme=radical)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker README</title>
+    <style>
+        body {
+            background-color: black;
+            color: #00ff00;
+            font-family: "Courier New", Courier, monospace;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+            text-shadow: 0 0 10px #00ff00;
+        }
+        .glitch {
+            font-size: 2em;
+            animation: glitch 1s infinite;
+        }
+        @keyframes glitch {
+            0% { text-shadow: 2px 2px 5px #00ff00; }
+            50% { text-shadow: -2px -2px 5px #00ff00; }
+            100% { text-shadow: 2px 2px 5px #00ff00; }
+        }
+        .terminal {
+            background-color: black;
+            border: 2px solid #00ff00;
+            padding: 20px;
+            width: 80%;
+            margin: auto;
+            text-align: left;
+        }
+        .command {
+            color: #00ff00;
+        }
+    </style>
+</head>
+<body>
+
+  <h1>𝘿𝘼𝙍𝙆_𝙃𝘼𝙎𝙃9</h1>
+    <p class="glitch">𝙒𝙀𝙇𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀</p>
+
+   <div class="terminal">
+       <p><span class="command">꧁👑ᎷᏒ_ᎻᎯᏕᎯᏁ_ᏦᎨᏁᎶ👑꧂</span><p>
+       <p><span class="command">꧁👑ᏢᎽᎿᎻᎾᏁ_Ꮂ_ᎻᎿᎷᏝ👑꧂</span><p>
+       <p><span class="command">꧁👑🤟ᎻᎯᏨᏦᎨᏒ_Ꮂ9_🤟👑꧂</span></p>
+       <p class="command">Initializing Hack Mode... 🔥</p>
+    </div>
+
+   <h2>🚀 Features</h2>
+    <ul>
+        <li>💀 Advanced Exploit Scripts</li>
+        <li>💻 Automated Pentesting Tools</li>
+        <li>🕶️ Undetectable Payloads</li>
+    </ul>
+
+   <h2>📜 License</h2>
+    <p>Use this responsibly. We take no liability for misuse.</p>
+
+</body>
+</html>
