@@ -36,27 +36,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Owner Bio -Arefin</title>
-    <style>
-        /* General Styles */
-        body {
-            font-family: 'Courier New', Courier, monospace;
-            margin: 0;
-            padding: 0;
-            background-color: #121212;
-            color: #e0e0e0;
-    }
-            height: 20px;
-            background-color: #0dff00;
-            animation: blink-effect 0.8s infinite;
-        }
+    <meta name="viewport" content="width=device-width, initial-scale=1.0>
 
 
 <body>
 
 <div class="wrapper">
-        <div class="top-header">
+      <div class="top-header">
             <img class="site-logo" src="https://i.ibb.co/8Dy5fmY4/1000010134.jpg" alt="Logo">
                 <p class="command-line"><span class="output-line">꧁༒☬𝙈𝙍-𝙃𝘼𝙎𝘼𝙉-𝙆𝙄𝙉𝙂𝙆☬༒꧂ </span><span class="  "></span></p>
         </div>
