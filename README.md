@@ -32,67 +32,181 @@
 
 ![RIDOY-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&theme=radical)
 
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hacker README</title>
+    <title>Owner Bio -Arefin</title>
     <style>
+        /* General Styles */
         body {
-            background-color: black;
-            color: #00ff00;
-            font-family: "Courier New", Courier, monospace;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #e0e0e0;
+    }
+
+        .wrapper {
+            width: 90%;
+            margin: 0 auto;
             padding: 20px;
+        }
+
+        .top-header {
             text-align: center;
+            margin-bottom: 30px;
         }
-        h1 {
-            font-size: 3em;
-            text-shadow: 0 0 10px #00ff00;
+
+        .site-logo {
+            width: 150px;
+            margin: 10px auto;
+            display: block;
         }
-        .glitch {
-            font-size: 2em;
-            animation: glitch 1s infinite;
+
+        .owner-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: #0dff00;
+            text-shadow: 0 0 10px #0dff00, 0 0 20px #0dff00, 0 0 30px #0dff00;
         }
-        @keyframes glitch {
-            0% { text-shadow: 2px 2px 5px #00ff00; }
-            50% { text-shadow: -2px -2px 5px #00ff00; }
-            100% { text-shadow: 2px 2px 5px #00ff00; }
+
+        /* Hacker Terminal Styles */
+        .hacker-console {
+            background-color: #1a1a1a;
+            color: #0dff00;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 0 20px rgba(13, 255, 0, 0.7);
+            border: 3px solid #0dff00;
         }
-        .terminal {
-            background-color: black;
-            border: 2px solid #00ff00;
-            padding: 20px;
-            width: 80%;
-            margin: auto;
-            text-align: left;
+
+        .command-line {
+            color: #0dff00;
         }
-        .command {
-            color: #00ff00;
+
+        .output-line {
+            font-weight: bold;
+            animation: rainbow-text 5s ease-in-out infinite;
+        }
+
+        .output-line:nth-child(even) {
+            animation: rainbow-text-reverse 5s ease-in-out infinite;
+        }
+
+        .cursor-effect {
+            display: inline-block;
+            width: 12px;
+            height: 20px;
+            background-color: #0dff00;
+            animation: blink-effect 0.8s infinite;
+        }
+
+        .terminal-buttons {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+
+        .terminal-btn {
+            display: inline-block;
+            background-color: #333;
+            color: #fff;
+            padding: 12px 25px;
+            margin: 8px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: all 0.3s ease;
+            border: 2px solid #0dff00;
+            box-shadow: 0 0 12px rgba(13, 255, 0, 0.7);
+        }
+
+        .terminal-btn:hover {
+            background-color: #ff007f;
+            box-shadow: 0 0 25px rgba(255, 0, 127, 0.7);
+        }
+
+        .footer-info {
+            text-align: center;
+            margin-top: 50px;
+            color: #ff007f;
+            text-shadow: 0 0 12px #ff007f, 0 0 24px #ff007f, 0 0 36px #ff007f;
+        }
+
+        .footer-info a {
+            color: #ff007f;
+            text-decoration: none;
+            text-shadow: 0 0 12px #ff007f, 0 0 24px #ff007f, 0 0 36px #ff007f;
+        }
+
+        @keyframes blink-effect {
+            50% {
+                background-color: transparent;
+            }
+        }
+
+        @keyframes rainbow-text {
+            0% { color: #ff007f; }
+            14% { color: #ff8000; }
+            28% { color: #ffff00; }
+            42% { color: #80ff00; }
+            57% { color: #00ff80; }
+            71% { color: #00ffff; }
+            85% { color: #8000ff; }
+            100% { color: #ff007f; }
+        }
+
+        @keyframes rainbow-text-reverse {
+            0% { color: #ff007f; }
+            14% { color: #8000ff; }
+            28% { color: #00ffff; }
+            42% { color: #00ff80; }
+            57% { color: #80ff00; }
+            71% { color: #ffff00; }
+            85% { color: #ff8000; }
+            100% { color: #ff007f; }
         }
     </style>
 </head>
 <body>
 
-  <h1>𝘿𝘼𝙍𝙆_𝙃𝘼𝙎𝙃9</h1>
-    <p class="glitch">𝙒𝙀𝙇𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀</p>
+<div class="wrapper">
+        <div class="top-header">
+            <img class="site-logo" src="https://i.ibb.co/8Dy5fmY4/1000010134.jpg" alt="Logo">
+                <p class="command-line"><span class="output-line">꧁༒☬𝙈𝙍-𝙃𝘼𝙎𝘼𝙉-𝙆𝙄𝙉𝙂𝙆☬༒꧂ </span><span class="  "></span></p>
+        </div>
+         <!--cursor-effect!>
+        <!-- Hacker Portal Console View -->
+        <div class="hacker-console">
+            <p class="command-line"><span class="output-line">꧁༒☬𝙈𝙔-𝘼𝙇𝙇-𝙎𝙆𝙄𝙇𝙇☬༒꧂ </span><span class="  "></span></p>
+            <p class="command-line">꧁😁꧂<span class="output-line">꧁𝙃𝘼𝘾𝙆𝙄𝙉𝙂꧂</span><span class=" "></span></p>
+            <p class="command-line">꧁😊꧂ <span class="output-line">꧁𝘾𝙊𝘼𝘿𝙄𝙉𝙂꧂</span></p>
+            <p class="command-line">꧁😘꧂<span class="output-line">꧁𝙋𝙍𝙊𝙂𝙈𝙈𝙄𝙉𝙂꧂</span></p>
+            <p class="command-line">꧁😋꧂<span class="output-line">꧁𝙋𝙔𝙏𝙃𝙊𝙉- 𝙀𝙓𝙋𝙀𝙍𝙏꧂</span></p>
+            <p class="command-line">꧁😗꧂<span class="output-line">꧁𝙃𝙏𝙈𝙇-𝙀𝙓𝙋𝙀𝙍𝙏꧂</span></p>
+            <p class="command-line">꧁😀꧂<span class="output-line">꧁𝘼𝙋𝙋-𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙈𝙀𝙉𝙏꧂</span></p>
+            <p class="command-line">꧁😛꧂<span class="output-line">꧁𝙒𝙀𝘽-𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙈𝙀𝙉꧂</span></p>
+            <p class="command-line">꧁😁꧂<span class="output-line">꧁𝙃𝘼𝘾𝙆 𝙏𝙊𝙊𝙇𝙎 𝙈𝘼𝙆𝙀𝙍꧂</span></p>
+            <p class="command-line">꧁👻꧂<span class="output-line">꧁𝙎𝘾𝙍𝙋𝙄𝙏-𝙀𝘿𝙄𝙏𝙊𝙍꧂</span></p>
+<!-- Add this section for the Open Facebook Button -->
+        <div class="terminal-buttons">
+            <a href="https://t.me/dark_hash9" target="_blank" class="terminal-btn">꧁𝙈𝙔-𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈😎꧂</a>
 
-   <div class="terminal">
-       <p><span class="command">꧁👑ᎷᏒ_ᎻᎯᏕᎯᏁ_ᏦᎨᏁᎶ👑꧂</span><p>
-       <p><span class="command">꧁👑ᏢᎽᎿᎻᎾᏁ_Ꮂ_ᎻᎿᎷᏝ👑꧂</span><p>
-       <p><span class="command">꧁👑🤟ᎻᎯᏨᏦᎨᏒ_Ꮂ9_🤟👑꧂</span></p>
-       <p class="command">Initializing Hack Mode... 🔥</p>
+      </div>
     </div>
-
-   <h2>🚀 Features</h2>
-    <ul>
-        <li>💀 Advanced Exploit Scripts</li>
-        <li>💻 Automated Pentesting Tools</li>
-        <li>🕶️ Undetectable Payloads</li>
-    </ul>
-
-   <h2>📜 License</h2>
-    <p>Use this responsibly. We take no liability for misuse.</p>
+    
+    <script>
+        // JavaScript for the terminal cursor animation
+        let cursor = document.querySelector('.cursor-effect');
+        setInterval(() => {
+            cursor.style.visibility = cursor.style.visibility === 'visible' ? 'hidden' : 'visible';
+        }, 500);
+    </script>
 
 </body>
 </html>
