@@ -43,7 +43,7 @@
 
 <div class="wrapper">
       <div class="top-header">
-            <img class="site-logo" src="https://i.ibb.co/8Dy5fmY4/1000010134.jpg" alt="Logo">
+            <img class="site-logo" src="https://i.ibb.co/67bXbZyh/1000014944.jpg" alt="Logo">
                 <p class="command-line"><span class="output-line">꧁༒☬𝙈𝙍-𝙃𝘼𝙎𝘼𝙉-𝙆𝙄𝙉𝙂𝙆☬༒꧂ </span><span class="  "></span></p>
         </div>
          <!--cursor-effect!>
